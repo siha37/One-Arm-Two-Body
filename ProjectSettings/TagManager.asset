@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P_BODY
+  - ENEMY
+  - EXP
+  - PROJECTILE
+  - ENEMY_PROJECTILE
+  - MINIGAMEBUTTON
+  - CHEST
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Post Processing
+  - Area
+  - Background
+  - EnemySensor
+  - Enemy
+  - Shild
+  - Projectile
+  - Player
+  - Chest
+  - Scensor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2254905119
+    locked: 0
+  - name: PassiveArea
+    uniqueID: 1329175689
+    locked: 0
+  - name: ProjectileEffect
+    uniqueID: 1530973223
+    locked: 0
+  - name: OBJ
+    uniqueID: 201356529
+    locked: 0
+  - name: Enemy
+    uniqueID: 3327737231
+    locked: 0
+  - name: Projectile
+    uniqueID: 894684939
+    locked: 0
+  - name: FireEffect
+    uniqueID: 3976846445
+    locked: 0
+  - name: Charater
+    uniqueID: 2279604747
+    locked: 0
+  - name: DamageUI
+    uniqueID: 1344759963
+    locked: 0
+  - name: UI
+    uniqueID: 432173775
+    locked: 0
