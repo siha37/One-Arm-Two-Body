@@ -68,6 +68,7 @@ public class Level_UP_Click_Type : MonoBehaviour
         }
     }
 
+    // 스킬 레벨 업 불가 시 ( HP 회복만 선택 가능 )
     public void PanelSetting(int MaxSlot_Count, bool type)
     {
         BackGround_UI.SetActive(true);
@@ -104,7 +105,7 @@ public class Level_UP_Click_Type : MonoBehaviour
         }
     }
 
-
+    // 스킬 레벨업 가능 시 슬롯 패널 세팅
     public void PanelSetting(int MaxSlot_Count,List<int> R_NUMS ,List<TOP_Projectile> Skill_list,bool type)
     {
         BackGround_UI.SetActive(true);

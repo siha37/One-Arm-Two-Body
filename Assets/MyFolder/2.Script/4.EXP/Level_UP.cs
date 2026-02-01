@@ -19,6 +19,7 @@ public class Level_UP : MonoBehaviour
     //Skill Component
     public List<TOP_Projectile> A_top_projects = new List<TOP_Projectile>();
     public List<TOP_Projectile> P_top_projects = new List<TOP_Projectile>();
+
     //다음 레벨업 스킬 종류
     // A : 액티브  P: 패시브
     // A : true   P: false
